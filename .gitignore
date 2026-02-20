@@ -4,8 +4,12 @@ node_modules/
 .DS_Store
 TreasureProject/
 _site/
+_site_static_v1/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 /vendor
 Gemfile.lock
+.wrangler/
+build/
+.react-router/
